@@ -1,4 +1,4 @@
-# ztrax
+# STATA import for select variables from ZTRAX 
 Stata files for importing specific fields from the Zillow ZTRAX database
 
 
