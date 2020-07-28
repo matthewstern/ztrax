@@ -11,9 +11,7 @@ the selected transaction records as various .dta files for analysis.
 **Computational needs:**
 Loading in the largest tables (at least for state of Illinois) seems 
 to require 32 GB of ram. Output file will be multible GB upon 
-completion. 
-
-Running this entire file, correctly specified, for Illinois and
+completion. Running this entire file, correctly specified, for Illinois and
 subsetting for Cook County (FIPS 17031), takes 2.5 hours. 
 
 **Important Notes:**
